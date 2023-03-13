@@ -1,6 +1,6 @@
 # hugo server --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
-baseURL: https://solareenlo.com
+baseURL: https://solareenlo.com/tech
 title: solareenlo
 # theme: book-ori
 theme: book-fork
@@ -30,7 +30,7 @@ pygmentsCodeFences: true
 menu:
   before: []
   after:
-    - name: "Github"
+    - name: "Source code"
       url: "https://github.com/solareenlo/tech"
       weight: 20
 
