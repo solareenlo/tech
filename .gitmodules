@@ -1,0 +1,3 @@
+[submodule "themes/book-fork"]
+	path = themes/book-fork
+	url = https://github.com/solareenlo/hugo-book
